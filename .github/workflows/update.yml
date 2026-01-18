@@ -1,0 +1,36 @@
+name: Auto Channel Update
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'  # প্রতি ২০ মিনিটে আপডেট হবে
+  workflow_dispatch:        # ম্যানুয়ালি বাটন টিপেও আপডেট করা যাবে
+
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Libraries
+        run: pip install requests
+
+      - name: Run Script
+        run: python main.py
+
+      - name: Save Changes
+        run: |
+          git config --global user.name "Auto Bot"
+          git config --global user.email "bot@github.com"
+          git add channels.json
+          git commit -m "Auto Updated Channels" || echo "No changes"
+          git push
