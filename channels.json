@@ -91,8 +91,8 @@
     "id": "willow",
     "name": "willow",
     "type": "mpd",
-    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/hrnuswtzcw/out/v1/ff22892ec10049e39572291600b150a0/cenc.mpd",
-    "keys": { "03c71fb5e7ca7f88def2e988ef390c26": "0a2ebb5b953aa99dd31e9c7ebf86b657" },
+    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/acj74u0gtr/out/v1/0b2271af67094db09aed7ab60f1a3256/cenc.mpd",
+    "keys": { "6a30a4c5d74e9a94a4a63a4431197bf9": "39ab01b0365b4c60ef49033ee167892d" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
   {
@@ -331,8 +331,8 @@
     "id": "sa20",
     "name": "Willow",
     "type": "mpd",
-    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/7q1vops5pt/out/v1/befb7c9a20c54bf284646a480cf5e6ea/cenc.mpd",
-    "keys": { "a01ba3a556b08d286cf2012f410d53ae": "7e5fe63c12915f364b7969cdb36ff553" },
+    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9iqho7n3kq/out/v1/dd9377e768ea4f37b323f0cc1e430044/cenc.mpd",
+    "keys": { "1f9cb11a9e9ca6dc058664558a9d111e": "3923f410fb5ad4197bf028d544dba026" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
   {
