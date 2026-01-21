@@ -91,8 +91,8 @@
     "id": "willow",
     "name": "willow",
     "type": "mpd",
-    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9gsr5sojq3/out/v1/3c0a8662bbf44015865b7f8221b638b1/cenc.mpd",
-    "keys": { "3f06445585cf5e8388a16dc3816bdefb": "7511cda8c9bc7ce5c9c44435d765950d" },
+    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/smgyotbhup/out/v1/f4ff6633924f4c7ebc76de9cd9db226a/cenc.mpd",
+    "keys": { "77cbbe03e429a079de236f53e60839d9": "c62e6a34d38065b75fc4d308fc8c3ca3" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
   {
@@ -323,7 +323,7 @@
     "id": "Cricbuzz",
     "name": "Cricbuzz",
     "type": "m3u8",
-    "url": "https://bsdk-gay-hizda-copy-karne-vala.vercel.app/1/index.m3u8",
+    "url": "https://bsdk-gay-hizda-copy-karne-vala.vercel.app/2/index.m3u8",
     "keys": null,
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
@@ -388,6 +388,14 @@
     "name": "sky nz 2 1080p50",
     "type": "m3u8",
     "url": "https://bsdk-gay-hizda-copy-karne-vala.vercel.app/2/index.m3u8",
+    "keys": null,
+    "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
+  },
+  {
+    "id": "dscp",
+    "name": "TNT Sports 1080p50",
+    "type": "m3u8",
+    "url": "https://bsdk-gay-hizda-copy-karne-vala.vercel.app/3/index.m3u8",
     "keys": null,
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   }
