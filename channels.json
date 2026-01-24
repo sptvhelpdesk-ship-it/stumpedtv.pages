@@ -398,5 +398,21 @@
     "url": "https://bsdk-gay-hizda-copy-karne-vala.vercel.app/1/index.m3u8",
     "keys": null,
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
+  },
+  {
+    "id": "ft01",
+    "name": "Man City v. Wolves",
+    "type": "mpd",
+    "url": "https://cors-proxy.sanderron.de/https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2511101-212514-248a94bb762)/master_2hr.mpd",
+    "keys": { "00221fbbe72dedb895c57e1ef2bfdb6e": "2c56825341dc64a35a2831521514321f" },
+    "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
+  },
+  {
+    "id": "ft02",
+    "name": "Fulham v. Brighton",
+    "type": "mpd",
+    "url": "https://cors-proxy.sanderron.de/https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2511101-212514-248a94bb762)/master_2hr.mpd",
+    "keys": { "0022ff10d54a2ec826e1f9665a0b0a5f": "0a5e0b2cbd465d6e20c006d585f4c698" },
+    "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   }
 ]
