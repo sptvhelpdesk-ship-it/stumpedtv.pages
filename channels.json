@@ -26,9 +26,9 @@
   {
     "id": "USANETWORK",
     "name": "Usa Network",
-    "type": "m3u8",
-    "url": "https://ru001.madayonoska.cam/out/v1/85d3b286a2d4cd568e0d1bd575e5d426/index.m3u8",
-    "keys": null,
+    "type": "mpd",
+    "url": "https://cors-proxy.sanderron.de/https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc1021n07j)/master_2hr.mpd",
+    "keys": { "002046c9a49b9ab1cdb6616bec5d26c3": "d2f92f6b7edc9a1a05d393ba0c20ef9e" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
   {
