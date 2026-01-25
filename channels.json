@@ -403,8 +403,8 @@
     "id": "ft01",
     "name": "Man City v. Wolves",
     "type": "mpd",
-    "url": "https://cors-proxy.sanderron.de/https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2511101-212514-248a94bb762)/master_2hr.mpd",
-    "keys": { "00221fbbe72dedb895c57e1ef2bfdb6e": "2c56825341dc64a35a2831521514321f" },
+    "url": "https://cors-proxy.sanderron.de/https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2511121-212534-248aa7ce476)/master_2hr.mpd",
+    "keys": { "0022af7fecc06b1c12901e3296f1b374": "82ad91c49f48e0b2526b9478bb5720a4" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
   {
