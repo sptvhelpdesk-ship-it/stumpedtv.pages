@@ -414,5 +414,13 @@
     "url": "https://cors-proxy.sanderron.de/https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2511100-212513-248a93c7521)/master_2hr.mpd",
     "keys": { "0022ff10d54a2ec826e1f9665a0b0a5f": "0a5e0b2cbd465d6e20c006d585f4c698" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
+  },
+  {
+    "id": "willoww",
+    "name": "willow",
+    "type": "mpd",
+    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rmt8ajvvbe/out/v1/1e8c4754213949f58fe5d4a330e0fd9a/cenc.mpd",
+    "keys": { "6ad3ae046bcc1ac09e04fc18829e8fd5": "d240356c08a4cc5ff43c2f2dd9a575e3" },
+    "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   }
 ]
