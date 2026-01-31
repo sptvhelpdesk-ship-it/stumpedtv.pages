@@ -422,5 +422,13 @@
     "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/5jwcidtmnk/out/v1/4fa911b982cb4e09bff568fc039ffd31/cenc.mpd",
     "keys": { "9f25dda865ef9c54014b912057910cf9": "60bfe271722579071a5284ddd6f5d2b8" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
+  },
+  {
+    "id": "WWE",
+    "name": "Teat",
+    "type": "m3u8",
+    "url": "https://silenthillf.loreofeldenring.site/dailymotion/live/playlist/2.m3u8",
+    "keys": null,
+    "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   }
 ]
