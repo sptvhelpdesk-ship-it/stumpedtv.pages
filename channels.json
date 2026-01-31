@@ -346,9 +346,9 @@
   {
     "id": "Willow2",
     "name": "Willow 2",
-    "type": "m3u8",
-    "url": "https://bsdk-gay-hizda-copy-karne-vala.vercel.app/2/index.m3u8",
-    "keys": null,
+    "type": "mpd",
+    "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/natzpe3wxi/out/v1/c4678a9572814af9afb86941bf010b02/cenc.mpd",
+    "keys": { "2aeab395a2fb5f9680560b35a63b25e2": "9d1546fd870dd44650c3229c3d9dd9ee" },
     "poster": "https://tv.assets.pressassociation.io/bea6d2cc-1051-5f6c-9464-0badeac80a07.jpg"
   },
   {
